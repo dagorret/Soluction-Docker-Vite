@@ -1,0 +1,4 @@
+@import "../fa/css/all.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
